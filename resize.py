@@ -1,4 +1,3 @@
-# resize with maximum size using PIL
 from PIL import Image
 import sys
 import argparse
