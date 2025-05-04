@@ -1,0 +1,164 @@
+# Hero
+hero:
+  enable: true
+  weight: 10
+  template: hero
+
+  backgroundImage:
+    path: "images/templates/hero"
+    filename:
+      desktop: "gradient-desktop.webp"
+      mobile: "gradient-mobile.webp"
+
+  badge:
+    text: Expo 2025
+    color: primary # primary, secondary, success, danger, warning, info, light, dark
+    pill: false # boolean
+    soft: true # boolean
+
+  titleLogo:
+    path: "images/logos"
+    filename: "title_logo.webp"
+    alt: "INKRAF Logo"
+    height: 80px
+
+  title: "INKRAF"
+  subtitle: "Mengembangkan Edupreneurship Mahasiswa melalui Inkubator Kreativitas di Dunia Pendidikan"
+
+  image:
+    path: "images" # path to image under configured assets directory. default 'images'
+    filename: "event_screenshot.png" # filename of your hero image (including file extension)
+    alt: "Pameran Media Ajar Matematika INKRAF" # Modified alt text to be more specific
+    boxShadow: true # default 'false' (excludes .svg images)
+    rounded: true # round the image corners? default 'false' (excludes .svg images)
+
+  ctaButton:
+    icon: event
+    btnText: "Kunjungi Pameran"
+    url: "/docs"
+  # cta2Button:
+  #   icon: app_registration
+  #   btnText: "Daftar Karya"
+  #   url: "/docs/participant/registration"
+
+  info: "\n\n" #"Pameran Media Ajar Matematika | 2025"
+
+# Feature Grid
+featureGrid:
+  enable: true
+  weight: 20
+  template: feature grid
+
+  title: Tentang INKRAF
+  subtitle: INKRAF adalah pameran media pembelajaran matematika yang menampilkan karya inovatif mahasiswa. Sebagai inkubator kreativitas, pameran ini berfokus pada pengembangan media ajar matematika yang aplikatif dan mendukung edupreneurship mahasiswa.
+
+  items:
+    - title: Pameran Karya Mahasiswa
+      icon: widgets
+      description: Menampilkan berbagai media ajar matematika inovatif yang dirancang dan dikembangkan oleh mahasiswa dari berbagai jurusan.
+      ctaLink:
+        text: lihat karya
+        url: /docs/gallery/
+
+    - title: Edupreneurship
+      icon: store
+      description: Mengembangkan jiwa wirausaha mahasiswa melalui penciptaan media ajar matematika yang bernilai jual dan dapat diimplementasikan di lembaga pendidikan.
+      ctaLink:
+        text: program marketplace
+        url: /docs/marketplace/
+
+    - title: Media Ajar Matematika
+      icon: calculate
+      description: Fokus pada pengembangan media pembelajaran matematika yang kreatif, interaktif, dan aplikatif untuk meningkatkan minat dan pemahaman siswa.
+      ctaLink:
+        text: eksplorasi media
+        url: /docs/media-catalog/
+
+    - title: Kolaborasi Lintas Jurusan
+      icon: diversity_3
+      description: Memfasilitasi kerja sama antar mahasiswa dari berbagai disiplin ilmu untuk menciptakan media ajar matematika yang komprehensif.
+      ctaLink:
+        text: tim kolaborasi
+        url: /docs/teams/
+
+    - title: Workshop dan Seminar
+      icon: event_available
+      description: Menghadirkan rangkaian workshop dan seminar untuk meningkatkan keterampilan mahasiswa dalam pembuatan media ajar dan kewirausahaan pendidikan.
+      ctaLink:
+        text: jadwal acara
+        url: /docs/schedule/
+
+# Image Text
+imageText:
+  enable: true
+  weight: 25
+  template: image text
+
+  title: Pameran Media Ajar Matematika Karya Mahasiswa
+  subtitle: INKRAF 2025 menampilkan beragam media pembelajaran matematika inovatif yang dirancang oleh mahasiswa untuk mendukung dunia pendidikan dan mengembangkan edupreneurship.
+
+  list:
+    - text: Karya media ajar matematika kreatif
+      icon: auto_awesome
+
+    - text: Pengembangan edupreneurship mahasiswa
+      icon: trending_up
+
+    - text: Kolaborasi lintas jurusan
+      icon: handshake
+
+  image:
+    path: "images"
+    filename: "support_by.webp"
+    alt: "Pameran Media Ajar Matematika INKRAF"
+
+  imgOrder:
+    desktop: 2
+    mobile: 1
+
+  ctaButton:
+    text: Jadwal Pameran
+    url: "/docs/schedule/"
+
+# Image Compare
+imageCompare:
+  enable: false
+  weight: 30
+  template: image compare
+
+  title: Inovasi Media Ajar Matematika
+  subtitle: Temukan berbagai media pembelajaran matematika yang interaktif dan inovatif dalam pameran INKRAF 2025.
+
+  items:
+    - title: Sponsor
+      config: {
+        startingPoint: 50,
+        addCircle: true,
+        addCircleBlur: false,
+        showLabels: true,
+        labelOptions: {
+          before: 'Konvensional',
+          after: 'Interaktif',
+          onHover: false
+        }
+      }
+      imagePath: "images"
+      imageBefore: "Sponsor.webp"
+      imageAfter: "Sponsor.webp"
+
+    - title: Media Partner
+      config: {
+        # controlColor: "#3C4257",
+        # startingPoint: 25,
+        # addCircle: true,
+        # addCircleBlur: false,
+        # showLabels: true,
+        # labelOptions: {
+        #   before: 'Digital',
+        #   after: 'Fisik',
+        #   onHover: false
+        # }
+      }
+      imagePath: "images"
+      imageBefore: "MediaPartner.webp"
+      imageAfter: "MediaPartner.webp"
