@@ -1,5 +1,5 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
+baseURL = 'https://inkubatorkreatif.github.io/'
+languageCode = 'id-ID'
 title = 'Inkubator Kreatif'
 
 [module]
