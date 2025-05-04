@@ -22,7 +22,8 @@ jobs:
         with:
           hugo-version: '0.147.0'
           # extended: true
-
+      - name: Hugo
+        run: hugo mod graph
       - name: Build
         run: hugo --minify
 
