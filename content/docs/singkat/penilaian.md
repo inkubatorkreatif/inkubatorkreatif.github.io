@@ -1,8 +1,8 @@
 ---
-weight: 999
-title: "Panduan Lengkap Penilaian"
-description: "Dokumentasi lengkap untuk penilaian"
-icon: "extension"
+weight: 54
+title: "Berikan Penilaian Anda"
+description: "Bantu kami meningkatkan kualitas media ajar SPIN PANGKAT dengan masukan Anda"
+icon: "star_rate"
 date: "2025-05-04T19:12:29+07:00"
 lastmod: "2025-05-04T19:12:29+07:00"
 draft: false

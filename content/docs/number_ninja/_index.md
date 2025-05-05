@@ -1,5 +1,5 @@
 ---
-weight: 20
+weight: 34
 title: "Number Ninja"
 description: "Media pembelajaran interaktif untuk memahami konsep perkalian dengan cara yang menyenangkan"
 icon: "sports_kabaddi"

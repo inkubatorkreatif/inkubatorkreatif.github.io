@@ -1,5 +1,5 @@
 ---
-weight: 10
+weight: 31
 title: "Fraction Verse"
 description: "Media permainan edukatif untuk memahami konsep pecahan senilai melalui Fraction Disk"
 icon: "casino"

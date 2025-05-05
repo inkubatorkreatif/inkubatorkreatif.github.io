@@ -1,5 +1,5 @@
 ---
-weight: 10
+weight: 28
 title: "Mathboard"
 description: "Media pembelajaran interaktif untuk konsep perkalian sebagai penjumlahan berulang"
 icon: "calculate"

@@ -1,5 +1,5 @@
 ---
-weight: 999
+weight: 32
 title: "Panduan Lengkap Fractionverse"
 description: "Dokumentasi lengkap untuk Fraction Verse"
 icon: "article"
@@ -9,22 +9,30 @@ draft: false
 toc: true
 ---
 
-# Permainan Pecahan Senilai
+# **Permainan Pecahan Senilai**
 
-## Deskripsi Permainan
+![Fraction Verse](/images/media_ajar/fraction_verse.jpg)
+
+## **Deskripsi Permainan**
+
+**Fraction Verse** adalah permainan edukatif yang dirancang untuk membantu siswa memahami konsep pecahan senilai melalui aktivitas interaktif dan menyenangkan.
+
 Pecahan senilai adalah pecahan yang memiliki nilai yang sama meskipun dituliskan dalam bentuk yang berbeda. Contohnya, pecahan 1/2 dan 2/4 adalah senilai karena keduanya merepresentasikan nilai yang sama, yaitu setengah.
 
 Pecahan digunakan untuk menunjukkan bagian dari sesuatu. Misalnya, jika kamu memiliki sebuah pizza dan memotongnya menjadi beberapa bagian, setiap bagian itu bisa disebut sebagai pecahan.
 
-## Alat yang Diperlukan
+## **Alat yang Diperlukan**
+
 - 2 buah **Fraction Disk** yang terbuat dari papan
 - Satu set **kartu** yang berisi berbagai nilai pecahan
 
-## Persiapan Permainan
+## **Persiapan Permainan**
+
 1. Dua pemain duduk berhadapan, masing-masing memegang satu **Fraction Disk**.
 2. Kartu pecahan dikocok dan diletakkan tertutup di tengah meja.
 
-## Cara Bermain
+## **Cara Bermain**
+
 1. Salah satu pemain membuka kartu teratas dari tumpukan kartu yang ada.
 2. Kedua pemain secara bersamaan berusaha menyusun **Fraction Disk** mereka agar nilainya sama dengan pecahan yang tertera pada kartu yang dibuka.
 3. Kartu yang sudah dimainkan disingkirkan dari tumpukan.
@@ -32,7 +40,19 @@ Pecahan digunakan untuk menunjukkan bagian dari sesuatu. Misalnya, jika kamu mem
 5. Permainan berlanjut hingga semua kartu habis.
 6. Pemain dengan poin terbanyak di akhir permainan menjadi pemenang.
 
-## Aturan Tambahan
+## **Aturan Tambahan**
+
 - Jika ada pemain yang salah dalam menyusun **Fraction Disk** atau salah dalam menyelesaikan pecahan, dia kehilangan giliran, dan lawannya mendapat kesempatan untuk menyelesaikan tantangan.
 - Untuk menambah variasi permainan, bisa ditambahkan kartu tantangan khusus yang mengharuskan pemain melakukan operasi matematika sederhana (seperti penjumlahan atau pengurangan) sebelum menyusun **Fraction Disk**.
 
+## **Manfaat Pembelajaran**
+
+- **Pemahaman Konseptual**: Membantu siswa memahami konsep pecahan senilai secara visual
+- **Keterampilan Konversi**: Melatih kemampuan mengubah pecahan ke bentuk senilainya
+- **Pembelajaran Interaktif**: Menciptakan suasana belajar yang menyenangkan dan interaktif
+- **Pengembangan Keterampilan Sosial**: Melatih kolaborasi dan kompetisi sehat
+
+---
+
+## Tim Pengembang
+![Fraction Verse](/images/peserta/fraction_verse.png)

@@ -1,5 +1,5 @@
 ---
-weight: 50
+weight: 13
 title: "Papin Math"
 description: "Media pembelajaran interaktif untuk mencari KPK (Kelipatan Persekutuan Terkecil) dengan metode pin"
 icon: "push_pin"

@@ -1,7 +1,7 @@
 ---
-weight: 999
+weight: 35
 title: "Panduan Lengkap Number Ninja"
-description: "Dokumentasi lengkap untuk number ninja"
+description: "Dokumentasi lengkap untuk Number Ninja"
 icon: "article"
 date: "2025-05-04T18:36:07+07:00"
 lastmod: "2025-05-04T18:36:07+07:00"
@@ -9,21 +9,21 @@ draft: false
 toc: true
 ---
 
-# NUMBER NINJA
+# **NUMBER NINJA**
 
 **Ayo jadi Ninja Angka dan Taklukkan Soal Perkalian**
 
 ![Number Ninja](/images/media_ajar/number_ninja.jpeg)
 
-## Deskripsi
+## **Deskripsi**
 
-Kartu Cerdas Perkalian Interaktif (KCPI) adalah media pembelajaran berbentuk tabel perkalian dari 1 sampai 10 yang dilengkapi dengan dua jendela pembatas berbentuk silang. Jendela ini dapat digeser secara horizontal dan vertikal untuk mencari hasil perkalian antara dua angka.
+**Kartu Cerdas Perkalian Interaktif (KCPI)** adalah media pembelajaran berbentuk tabel perkalian dari 1 sampai 10 yang dilengkapi dengan dua jendela pembatas berbentuk silang. Jendela ini dapat digeser secara horizontal dan vertikal untuk mencari hasil perkalian antara dua angka.
 
-## Tujuan
+## **Tujuan**
 
 Bahan ajar ini dirancang untuk membantu siswa sekolah dasar memahami konsep dasar operasi perkalian dengan cara yang menyenangkan, visual, dan interaktif.
 
-## Cara Menggunakan
+## **Cara Menggunakan**
 
 1. **Pilih Angka yang Akan Dikalkan**  
    Geser bilah horizontal untuk memilih angka pertama (misal: 3) pada bagian samping kiri tabel.
@@ -38,6 +38,18 @@ Bahan ajar ini dirancang untuk membantu siswa sekolah dasar memahami konsep dasa
    Guru dapat memberi soal, lalu siswa mencari jawabannya menggunakan KCPI.  
    Bisa juga digunakan untuk kuis kelompok kecil.
 
-## Harapan
+## **Manfaat Pembelajaran**
+
+- **Visualisasi Perkalian**: Membuat konsep perkalian menjadi lebih konkret dan mudah dipahami
+- **Pembelajaran Aktif**: Mendorong partisipasi aktif siswa dalam proses pembelajaran
+- **Memorisasi Efektif**: Membantu siswa mengingat tabel perkalian dengan cara yang lebih menyenangkan
+- **Pengembangan Keterampilan**: Meningkatkan keterampilan berhitung dasar dan logika numerik
+
+## **Harapan**
 
 Dengan adanya KCPI, diharapkan siswa lebih mudah memahami konsep perkalian sebagai operasi berulang, lebih aktif, terlibat, dan antusias dalam belajar matematika, mampu menghafal hasil perkalian dengan cara visual dan praktikum langsung, serta meningkatkan keterampilan berhitung dasar dan logika numerik siswa.
+
+---
+
+## Tim Pengembang
+![Number Ninja](/images/peserta/number_ninja.png)

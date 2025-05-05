@@ -1,5 +1,5 @@
 ---
-weight: 999
+weight: 5
 title: "Panduan Lengkap Papan Integer"
 description: "Dokumentasi lengkap untuk papan integer"
 icon: "article"
@@ -9,19 +9,19 @@ draft: false
 toc: true
 ---
 
-# Papan Integer
+# **Papan Integer**
 
 ![Papan Integer](/images/media_ajar/papan_integer.jpg)
 
-## Deskripsi
+## **Deskripsi**
 
-Papan Integer adalah media pembelajaran matematika yang dirancang untuk memberi gambaran visual tentang operasi hitung bilangan bulat, khususnya penjumlahan dan pengurangan dengan bilangan positif dan negatif.
+**Papan Integer** adalah media pembelajaran matematika yang dirancang untuk memberi gambaran visual tentang operasi hitung bilangan bulat, khususnya penjumlahan dan pengurangan dengan bilangan positif dan negatif.
 
-## Tujuan
+## **Tujuan**
 
 Media ini bertujuan untuk memberikan gambaran konkret tentang operasi hitung bilangan bulat sehingga siswa dapat lebih mudah memahami konsep-konsep matematika dasar.
 
-## Cara Menggunakan
+## **Cara Menggunakan**
 
 1. Tulislah soal angka yang akan dijumlahkan (rekomendasi: satu bilangan positif dan satu bilangan negatif)
 2. Geserlah arah panah yang atas sebagai poin patokan awal, misalnya 5. Maka kita taruh anak panah di angka 5
@@ -31,6 +31,18 @@ Media ini bertujuan untuk memberikan gambaran konkret tentang operasi hitung bil
    - Dalam contoh ini, geserkan anak panah 3 angka ke kiri
 4. Lihatlah posisi anak panah bawah berada di angka berapa, itulah jawaban untuk soal tersebut
 
-## Kesimpulan
+## **Manfaat Pembelajaran**
+
+- **Visualisasi Konkret**: Menjembatani konsep abstrak bilangan negatif menjadi bentuk visual
+- **Pemahaman Intuitif**: Memudahkan pemahaman tentang arah dan nilai dalam operasi bilangan bulat
+- **Pembelajaran Interaktif**: Mendorong partisipasi aktif siswa dalam proses belajar
+- **Pengembangan Logika Matematika**: Melatih penalaran dan pemahaman konsep operasi hitung
+
+## **Kesimpulan**
 
 Dengan menggunakan Papan Integer, siswa dapat memvisualisasikan proses operasi bilangan bulat yang biasanya abstrak menjadi lebih konkret dan mudah dipahami.
+
+---
+
+## Tim Pengembang
+![Papan Integer](/images/peserta/papan_integer.png)

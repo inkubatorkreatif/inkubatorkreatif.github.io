@@ -1,5 +1,5 @@
 ---
-weight: 70
+weight: 52
 title: "Singkat"
 description: "Media pembelajaran SPIN PANGKAT untuk memudahkan siswa mencari nilai pangkat"
 icon: "cycle"

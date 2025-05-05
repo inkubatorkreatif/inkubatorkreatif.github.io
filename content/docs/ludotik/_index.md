@@ -1,5 +1,5 @@
 ---
-weight: 10
+weight: 43
 title: "Ludotik"
 description: "Permainan Ludo Bangun Datar untuk pembelajaran geometri interaktif"
 icon: "casino"

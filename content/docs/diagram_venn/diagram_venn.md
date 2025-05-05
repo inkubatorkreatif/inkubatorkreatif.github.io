@@ -1,5 +1,5 @@
 ---
-weight: 999
+weight: 8
 title: "Panduan Lengkap Diagram Venn"
 description: "Dokumentasi lengkap untuk diagram venn"
 icon: "article"
@@ -11,10 +11,11 @@ toc: true
 
 # **Diagram Venn**
 
-
 ![Diagram Venn](/images/media_ajar/diagram_venn.jpg)
 
-Media pembelajaran matematika **Diagram Venn** adalah sebuah alat visual yang digunakan untuk membantu siswa memahami konsep himpunan dan operasi himpunan dalam matematika. Berikut adalah deskripsi media pembelajaran ini:
+## **Deskripsi**
+
+Media pembelajaran matematika **Diagram Venn** adalah sebuah alat visual yang digunakan untuk membantu siswa memahami konsep himpunan dan operasi himpunan dalam matematika.
 
 ## **Karakteristik**
 
@@ -35,3 +36,8 @@ Media pembelajaran matematika **Diagram Venn** adalah sebuah alat visual yang di
 3. **Aktivitas Siswa**: Siswa diminta untuk membuat diagram Venn untuk menggambarkan himpunan dan operasi himpunan.
 
 > Media pembelajaran Diagram Venn dapat digunakan di sekolah menengah pertama dan atas untuk membantu siswa memahami konsep himpunan dan operasi himpunan dengan cara yang visual dan interaktif.
+
+---
+
+## Tim Pengembang
+![Diagram Venn](/images/peserta/diagram_venn.png)

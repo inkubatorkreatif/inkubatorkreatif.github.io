@@ -1,5 +1,5 @@
 ---
-weight: 999
+weight: 14
 title: "Panduan Lengkap Papin Math"
 description: "Dokumentasi lengkap untuk papin math"
 icon: "article"
@@ -9,15 +9,15 @@ draft: false
 toc: true
 ---
 
-# PAPIN MATH
+# **PAPIN MATH**
 
 ![Papin Math](/images/media_ajar/papin_math.jpg)
 
-## Deskripsi
+## **Deskripsi**
 
-Papin Math adalah media pembelajaran interaktif yang membantu siswa memahami konsep KPK (Kelipatan Persekutuan Terkecil) dengan cara visual menggunakan metode pin.
+**Papin Math** adalah media pembelajaran interaktif yang membantu siswa memahami konsep KPK (Kelipatan Persekutuan Terkecil) dengan cara visual menggunakan metode pin.
 
-## Teknis Penggunaan
+## **Teknis Penggunaan**
 
 Berikut cara penggunaan Papin Math untuk mencari KPK:
 
@@ -35,3 +35,15 @@ Berikut cara penggunaan Papin Math untuk mencari KPK:
 
 5. **Tentukan KPK**  
    Angka terkecil yang memiliki dua pin adalah KPK dari kedua bilangan tersebut. Dalam contoh ini, angka 21 adalah KPK dari 3 dan 7.
+
+## **Manfaat Pembelajaran**
+
+- **Visualisasi Konsep**: Membuat konsep KPK yang abstrak menjadi lebih nyata dan mudah dipahami
+- **Pembelajaran Aktif**: Siswa terlibat langsung dalam proses menemukan KPK
+- **Pemahaman Mendalam**: Memberikan pemahaman tentang proses mencari KPK, bukan hanya hasilnya
+- **Pengembangan Penalaran Matematis**: Melatih kemampuan analisis dan identifikasi pola
+
+---
+
+## Tim Pengembang
+![Papin Math](/images/peserta/papin_math.png)

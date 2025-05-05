@@ -1,5 +1,5 @@
 ---
-weight: 80
+weight: 25
 title: "Spidertri"
 description: "Media pembelajaran berbentuk spin sederhana untuk memudahkan pencarian nilai-nilai trigonometri"
 icon: "change_circle"

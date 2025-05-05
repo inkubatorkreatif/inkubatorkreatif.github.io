@@ -1,5 +1,5 @@
 ---
-weight: 999
+weight: 11
 title: "Panduan Lengkap Calc War"
 description: "Dokumentasi lengkap untuk Calc War"
 icon: "article"
@@ -32,6 +32,9 @@ toc: true
 
 > CalcWar cocok dimainkan oleh berbagai kelompok usia, mulai dari anak-anak hingga orang dewasa, dengan penyesuaian tingkat kesulitan yang sesuai.
 
-
 ![CalcWar](/images/media_ajar/calcwar.png)
 
+---
+
+## Tim Pengembang
+![Calc War](/images/peserta/calc_war.png)
