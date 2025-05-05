@@ -19,7 +19,7 @@ title = 'Inkubator Kreatif'
   # Enable title icons
   titleIcon = true
   [params.footer]
-    copyright = "© :YEAR: INKRAF. Built with [**Lotus Docs**](https://github.com/colinwilson/lotusdocs)"
+    copyright = "© :YEAR: Inkraf"
     # version = true # includes git commit info
 
   [params.docs] # Parameters for the /docs 'template'

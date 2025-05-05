@@ -55,6 +55,7 @@ Permainan Ludo dapat diintegrasikan dengan materi bangun datar dalam beberapa ca
 5. Pemain pertama yang menyelesaikan satu putaran menang
 
 ## **Manfaat Pembelajaran**
+![Ludotik](/images/media_ajar/ludotik_2.jpeg)
 
 - **Pemahaman Geometri**: Membantu siswa memahami konsep bangun datar secara konkret
 - **Keterampilan Pemecahan Masalah**: Melatih kemampuan pemecahan masalah matematika
@@ -64,4 +65,4 @@ Permainan Ludo dapat diintegrasikan dengan materi bangun datar dalam beberapa ca
 ---
 
 ## Tim Pengembang
-![Ludotik](/images/peserta/fraction_verse.png)
+![Ludotik](/images/peserta/ludotik.png)
