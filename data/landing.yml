@@ -27,10 +27,10 @@ hero:
 
   image:
     path: "images" # path to image under configured assets directory. default 'images'
-    filename: "event_screenshot.png" # filename of your hero image (including file extension)
+    filename: "mockup_cropped.png" # filename of your hero image (including file extension)
     alt: "Pameran Media Ajar Matematika INKRAF" # Modified alt text to be more specific
-    boxShadow: true # default 'false' (excludes .svg images)
-    rounded: true # round the image corners? default 'false' (excludes .svg images)
+    # boxShadow: true # default 'false' (excludes .svg images)
+    # rounded: true # round the image corners? default 'false' (excludes .svg images)
 
   ctaButton:
     icon: event
