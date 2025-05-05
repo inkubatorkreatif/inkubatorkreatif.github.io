@@ -1,5 +1,5 @@
 ---
-weight: 42
+weight: 3
 title: "Berikan Penilaian Anda"
 description: "Bantu kami meningkatkan kualitas media ajar Pancicah dengan masukan Anda"
 icon: "star_rate"
