@@ -1,26 +1,56 @@
 ---
-weight: 999
+weight: 23
 title: "Panduan Lengkap Tangga Penjumlahan"
-description: ""
+description: "Dokumentasi lengkap untuk media pembelajaran Tangga Penjumlahan"
 icon: "article"
-date: "2025-05-05T11:48:18+07:00"
-lastmod: "2025-05-05T11:48:18+07:00"
+date: "2025-05-04T18:00:00+07:00"
+lastmod: "2025-05-04T18:00:00+07:00"
 draft: false
 toc: true
 ---
 
-<!-- # Tangga Penjumlahan -->
+# **Tangga Penjumlahan**
 
 ![Tangga Penjumlahan](/images/media_ajar/tangga_penjumlahan.jpg)
 
+## **Deskripsi**
 
-### Deskripsi
-Tangga Penjumlahan adalah media pembelajaran interaktif yang digunakan untuk membantu siswa memahami konsep penjumlahan bilangan secara konkret. Media ini berbentuk tangga yang terbuat dari papan kayu, dihiasi dengan angka 1-10 dari skotlaat warna-warni, dilengkapi oleh dua buah dadu. Setiap anak tangga diberi nomor, dan siswa dapat menunjukkan tusuk sate sesuai bilangan dalam soal penjumlahan. Melalui media ini, siswa belajar berhitung sambil bermain secara visual dan motorik, sehingga proses pembelajaran menjadi lebih menarik, menyenangkan, dan mudah dipahami.
+**Tangga Penjumlahan** adalah media pembelajaran matematika yang dirancang untuk membantu siswa memvisualisasikan proses penjumlahan angka. Media ini berbentuk seperti tangga dengan angka-angka yang tersusun secara berurutan, memungkinkan siswa untuk "melangkah" dari satu angka ke angka lainnya saat melakukan penjumlahan.
 
-### Cara Kerja
-Siswa melempar dua buah dadu, lalu menunjukkan tusuk sate ke anak tangga sesuai jumlah bilangan pada lemparan dadu tersebut. Jika dadu pertama yang muncul menampilkan 2 mata dadu maka 2 tusuk untuk angka 2, jika dadu kedua muncul 4 mata dadu maka ditambah 4 tusuk lagi, sehingga anak bisa langsung melihat hasil penjumlahan di angka terakhir tusukan yaitu 6.
+## **Tujuan Pembelajaran**
 
-Media ini bersifat interaktif, kreatif, dan visual – sangat cocok untuk pembelajaran matematika dasar di jenjang SD.
+- Membantu siswa memahami konsep dasar penjumlahan
+- Mengembangkan kemampuan berhitung melalui pendekatan visual dan kinestetik
+- Menjembatani pemahaman abstrak penjumlahan menjadi bentuk yang konkret
+- Meningkatkan kecepatan dan akurasi dalam operasi penjumlahan dasar
+
+## **Cara Penggunaan**
+
+1. **Persiapan**: Siapkan Tangga Penjumlahan dan pastikan siswa dapat melihat dengan jelas angka pada setiap anak tangga
+2. **Tentukan Angka Pertama**: Minta siswa untuk menentukan angka pertama yang akan dijumlahkan
+3. **Langkah Penjumlahan**: Siswa mulai dari angka pertama dan "melangkah" sebanyak angka kedua
+4. **Identifikasi Hasil**: Angka terakhir yang diinjak merupakan hasil penjumlahan
+
+### **Contoh**
+
+Untuk menghitung 3 + 5:
+- Siswa mulai berdiri pada angka 3
+- Kemudian melangkah sebanyak 5 langkah ke depan
+- Siswa akan berada pada angka 8
+- Jadi, 3 + 5 = 8
+
+## **Variasi Penggunaan**
+
+- **Penjumlahan Mundur**: Bisa digunakan untuk mengajarkan konsep pengurangan
+- **Permainan Kelompok**: Bisa dimainkan secara berkelompok dengan soal-soal penjumlahan bertingkat
+- **Integrasi dengan Cerita**: Menggabungkan dengan cerita untuk membuat pembelajaran lebih menarik
+
+## **Manfaat Pembelajaran**
+
+- **Visualisasi Konkret**: Memberikan gambaran nyata tentang proses penjumlahan
+- **Pembelajaran Multi-indera**: Melibatkan visual, taktil, dan kinestetik dalam pembelajaran
+- **Pemahaman Konseptual**: Memperkuat pemahaman konsep penjumlahan sebagai proses "melangkah maju"
+- **Pembelajaran Menyenangkan**: Menciptakan suasana belajar yang interaktif dan menyenangkan
 
 ---
 

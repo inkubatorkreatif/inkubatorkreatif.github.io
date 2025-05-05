@@ -8,3 +8,5 @@ lastmod: "2025-05-04T18:23:21+07:00"
 draft: false
 toc: true
 ---
+
+### Papan Integer

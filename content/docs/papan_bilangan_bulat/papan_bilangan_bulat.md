@@ -5,13 +5,13 @@ description: "Dokumentasi lengkap untuk media pembelajaran interaktif bilangan b
 icon: "article"
 date: "2025-05-05T12:51:46+07:00"
 lastmod: "2025-05-05T12:51:46+07:00"
-draft: true
+draft: false
 toc: true
 ---
 
 # **Papan Bilangan Bulat**
 
-![Papan Bilangan Bulat](/images/media_ajar/papan_bilangan_bulat.jpg)
+![Papan Bilangan Bulat](/images/media_ajar/papan_bilangan_bulat.jpeg)
 
 ## **Deskripsi Media**
 

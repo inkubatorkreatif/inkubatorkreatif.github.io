@@ -5,6 +5,6 @@ description: "Bantu kami meningkatkan kualitas media ajar Pancicah dengan masuka
 icon: "star_rate"
 date: "2025-05-04T21:51:10+07:00"
 lastmod: "2025-05-04T21:51:10+07:00"
-draft: true
+draft: false
 toc: true
 ---
