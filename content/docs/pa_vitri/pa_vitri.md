@@ -1,6 +1,6 @@
 ---
 weight: 47
-title: "Panduan Lengkap PA VITRI"
+title: "Panduan Lengkap Pavitri"
 description: "Dokumentasi lengkap untuk Papan Visualisasi Trigonometri"
 icon: "article"
 date: "2025-05-04T18:28:22+07:00"
@@ -9,13 +9,13 @@ draft: false
 toc: true
 ---
 
-# **PA VITRI (Papan Visualisasi Trigonometri) SUDUT ISTIMEWA**
+# **Pavitri (Papan Visualisasi Trigonometri) SUDUT ISTIMEWA**
 
-![Pa Vitri](/images/media_ajar/pa_vitri.webp)
+![Pavitri](/images/media_ajar/pa_vitri.webp)
 
 ## **Deskripsi**
 
-**PA VITRI** adalah media pembelajaran yang bertujuan untuk memperjelas pemahaman siswa tentang konsep dasar trigonometri dengan menggunakan visual interaktif, khususnya hubungan antara sudut dan rasio trigonometri (sin, cos, tan) melalui representasi segitiga siku-siku dan lingkaran satuan.
+**Pavitri** adalah media pembelajaran yang bertujuan untuk memperjelas pemahaman siswa tentang konsep dasar trigonometri dengan menggunakan visual interaktif, khususnya hubungan antara sudut dan rasio trigonometri (sin, cos, tan) melalui representasi segitiga siku-siku dan lingkaran satuan.
 
 ## **Teknis Penggunaan**
 
@@ -41,10 +41,10 @@ Warna pada segitiga dan pada kotak papan perhitungan sebagai bantuan untuk mengh
 - **Pemahaman Mendalam**: Membantu siswa memahami hubungan antara sudut dan rasio trigonometri
 - **Pendekatan Multi-indera**: Melibatkan visual dan taktil dalam proses pembelajaran
 
-![Pa Vitri - Tampilan 1](/images/media_ajar/pa_vitri_1.png)
-![Pa Vitri - Tampilan 2](/images/media_ajar/pa_vitri_2.png)
+![Pavitri - Tampilan 1](/images/media_ajar/pa_vitri_1.png)
+![Pavitri - Tampilan 2](/images/media_ajar/pa_vitri_2.png)
 
 ---
 
 ## Tim Pengembang
-![PA VITRI](/images/peserta/pa_vitri.png)
+![Pavitri](/images/peserta/pa_vitri.png)
