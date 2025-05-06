@@ -9,30 +9,4 @@ draft: false
 toc: true
 ---
 
-# Presentasi Spidertri
-
-Halaman ini berisi slide presentasi resmi untuk media pembelajaran **Spidertri (Spin Sederhana Trigonometri)**. Presentasi ini dirancang untuk memberikan gambaran komprehensif tentang cara penggunaan, konsep trigonometri yang mendasari, serta manfaat pembelajaran dari media ini.
-
-## Isi Presentasi
-
-Presentasi ini mencakup:
-- Pengenalan konsep dasar trigonometri dan nilai-nilai sudut istimewa
-- Penjelasan tentang struktur dan fungsi tiga lapisan Spidertri
-- Tutorial penggunaan media untuk mencari nilai sin, cos, dan tan
-- Metode pencarian turunan trigonometri dengan Spidertri
-- Contoh-contoh penerapan dalam pembelajaran kelas
-- Tips dan trik mengajarkan trigonometri dengan cara menyenangkan
-
-## Slide Presentasi
-
-
-
-## Unduh Presentasi
-
-Anda dapat mengunduh versi lengkap dari presentasi ini melalui:
-- [Format PDF](/files/presentasi/spidertri.pdf)
-- [Format PowerPoint](/files/presentasi/spidertri.pptx)
-
-## Tim Pengembang
-
-Presentasi ini dikembangkan oleh tim yang sama yang mengembangkan media pembelajaran Spidertri sebagai bagian dari inisiatif untuk mendukung pengajaran matematika yang interaktif dan menyenangkan.
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR5NKFTeq5yIHNhzpvMZRemeXu_T15VHSmcZjde4pZpyNc97vUtDkppKmQIVEovKg/pubembed?start=false&loop=false" width="100%" height="500px" class="w-full h-full md:h-[900px]"></iframe>
