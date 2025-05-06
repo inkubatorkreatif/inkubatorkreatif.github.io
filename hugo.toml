@@ -76,3 +76,8 @@ title = 'Inkubator Kreatif'
         # searchSectionsIndex = []
     [params.social]
         instagram = "inkubator.kreatif"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
